@@ -1,0 +1,8 @@
+{
+  "port": 3300,
+  "db_host": "localhost",
+  "db_user": "postgres",
+  "db_database": "electrical_tool_rental",
+  "db_port": 5432,
+  "db_password": "5432"
+}
